@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Weingut Test]]></title>
+        <description><![CDATA[Weingut Test]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 05 Jan 2016 20:57:34 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>WEINGUT   Weingüter entstehen nicht von heute auf morgen, sie werden von Generationen zu dem gemacht, was sie heute sind!   Seit 1858 wird in Groß-Reipersdorf bei Pulkau Weinbautradition groß geschrieben. Winzer zu sein bedeutet für Simone & Hannes und Simones Eltern Karl und Anni Jordan, die Faszination der Natur einzufangen, sensibel dafür zu sein und die besten Qualitäten, die die Natur zulässt in den Keller einzufahren. Es ist eine Überzeugung, der wir nachgehen, nie auf denselben Erkenntnissen stehen bleiben, sondern sich weiter entwickeln, mit beiden Beinen auf dem Boden stehen und in die Zukunft blicken! Das Fundament für unsere Weine bildet eindeutig der Boden unserer Heimat. Pulkau fasziniert mit Böden vom Maissauer Granit bis zu feinkörnigen Lössböden an den Ausläufern des Manhartsberges. Diese Gegebenheiten sind der Ursprung für unsere Rotweinaffinität in dem weißweindominierenden Weinviertel, wo wir gemäß unserer Tradition auf Zweigelt und St. Laurent setzen. Die Zukunft von Simone Jordan ist der Wein und so hat Simone mit viel Freude das Weingut 2010 übernommen und führt es mit Begeisterung weiter.  </p>]]></description>
+            <link>http://www.weingut-jordan.at/php_deu/weingut.php</link>
+            <guid isPermaLink="false">82561d17-f6ec-46a1-bde0-3f04d3046b20</guid>
+            <pubDate>Tue, 05 Jan 2016 20:57:07 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
