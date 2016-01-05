@@ -1,7 +1,7 @@
 name: Weingut Test
 favicon: null
-layout_spectrum: 0.45579025289043784
-typography_spectrum: 0.6796576490160078
+layout_spectrum: 0.26434
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#ffffff'
+    - '#e20814'
+    - '#000000'
+    - '#b8b9b8'
+    - '#f2a1a5'
   brandStrength: 0.49912113160826266
   lightness: 0.5177207589149475
   saturation: 0.35366410738788545
