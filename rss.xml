@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Weingut Test]]></title>
         <description><![CDATA[Weingut Test]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/weingut-test/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Jan 2016 20:57:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 05 Jan 2016 20:59:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/weingut-test/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Boden]]></title>
+            <description><![CDATA[<article><h1>Boden</h1><p>Der Boden ist unser wertvollstes Gut!  Mit seiner malerischen Silhouette liegt Pulkau inmitten von Weingärten im nordwestlichen Weinviertel. So wurzeln unsere Reben an den Ausläufern des Manhartsberges wo aus geologischer Sicht zwei Großeinheiten aufeinander treffen. Die Böhmische Masse im Waldviertel und die Molassezone im Weinviertel.   Die Böhmische Masse zählt zu den ältesten Landschaften Österreichs. Die Rede ist von dem Begriff Urgestein, der aus Granit und einer Vielzahl von metamorphen Gesteinen, wie Gneise, Granulite, Graphite, Marmor und Quarzite besteht. Der in Pulkau vorherrschende Maissauer Granit entstand als Erstarrungsgestein vor ca. 555 Millionen Jahren. In unserer Ried Wehrleiten wächst so der Riesling unter seinen besten Voraussetzungen, bedacht auf Typizität und Charakter der Sorte!</p></article>]]></description>
+            <link>http://www.weingut-jordan.at/php_deu/terroir.php</link>
+            <guid isPermaLink="false">7b3f05d5-e57f-4068-8e8e-ad26ad925b14</guid>
+            <pubDate>Tue, 05 Jan 2016 20:59:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>WEINGUT   Weingüter entstehen nicht von heute auf morgen, sie werden von Generationen zu dem gemacht, was sie heute sind!   Seit 1858 wird in Groß-Reipersdorf bei Pulkau Weinbautradition groß geschrieben. Winzer zu sein bedeutet für Simone & Hannes und Simones Eltern Karl und Anni Jordan, die Faszination der Natur einzufangen, sensibel dafür zu sein und die besten Qualitäten, die die Natur zulässt in den Keller einzufahren. Es ist eine Überzeugung, der wir nachgehen, nie auf denselben Erkenntnissen stehen bleiben, sondern sich weiter entwickeln, mit beiden Beinen auf dem Boden stehen und in die Zukunft blicken! Das Fundament für unsere Weine bildet eindeutig der Boden unserer Heimat. Pulkau fasziniert mit Böden vom Maissauer Granit bis zu feinkörnigen Lössböden an den Ausläufern des Manhartsberges. Diese Gegebenheiten sind der Ursprung für unsere Rotweinaffinität in dem weißweindominierenden Weinviertel, wo wir gemäß unserer Tradition auf Zweigelt und St. Laurent setzen. Die Zukunft von Simone Jordan ist der Wein und so hat Simone mit viel Freude das Weingut 2010 übernommen und führt es mit Begeisterung weiter.  </p>]]></description>
