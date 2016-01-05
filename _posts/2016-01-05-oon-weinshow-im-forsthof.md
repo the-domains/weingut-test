@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-05T21:28:00.710Z'
-dateModified: '2016-01-05T21:27:47.437Z'
+datePublished: '2016-01-05T21:40:59.012Z'
+dateModified: '2016-01-05T21:40:51.904Z'
 title: OÖN Weinshow im Forsthof
 author: []
+sourcePath: _posts/2016-01-05-oon-weinshow-im-forsthof.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-05-oon-weinshow-im-forsthof.md
-published: true
 url: oon-weinshow-im-forsthof/index.html
 _type: WebPage
 
