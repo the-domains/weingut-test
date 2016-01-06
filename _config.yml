@@ -1,6 +1,6 @@
 name: Weingut Test
 favicon: null
-layout_spectrum: 0.08492
+layout_spectrum: 1
 typography_spectrum: 1
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#000000'
     - '#b8b9b8'
     - '#f2a1a5'
-  brandStrength: 0.49912113160826266
-  lightness: 0.5177207589149475
-  saturation: 0.35366410738788545
-  rhythmicContrast: 0.44478427874855697
+  brandStrength: 0.6875
+  lightness: 0.75
+  saturation: 0.875
+  rhythmicContrast: 0.75
 purpose: []
