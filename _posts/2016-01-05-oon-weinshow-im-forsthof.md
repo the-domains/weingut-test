@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-05T21:40:59.012Z'
-dateModified: '2016-01-05T21:40:51.904Z'
+datePublished: '2016-01-06T18:29:22.964Z'
+dateModified: '2016-01-06T18:29:16.171Z'
 title: OÖN Weinshow im Forsthof
 author: []
 sourcePath: _posts/2016-01-05-oon-weinshow-im-forsthof.md
