@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-05T21:16:44.510Z'
-dateModified: '2016-01-05T21:16:21.881Z'
+datePublished: '2016-01-06T18:08:05.892Z'
+dateModified: '2016-01-06T18:07:44.767Z'
 title: "Pulkau...reich an Geschichte und\_voll von kraftvollem Leben!"
 author: []
+sourcePath: _posts/2016-01-05-pulkaureich-an-geschichte-und-voll-von-kraftvollem-leben.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-05-pulkaureich-an-geschichte-und-voll-von-kraftvollem-leben.md
-published: true
 url: pulkaureich-an-geschichte-und-voll-von-kraftvollem-leben/index.html
 _type: WebPage
 
