@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-28T21:35:44.239Z'
+datePublished: '2016-01-28T21:35:44.478Z'
 dateModified: '2016-01-28T21:35:40.738Z'
 title: "Pulkau...reich an Geschichte und\_voll von kraftvollem Leben!"
 author: []
