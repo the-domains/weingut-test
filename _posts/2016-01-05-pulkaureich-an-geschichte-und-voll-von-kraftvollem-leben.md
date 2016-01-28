@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-06T18:23:06.177Z'
-dateModified: '2016-01-06T18:23:00.962Z'
+datePublished: '2016-01-28T21:35:44.239Z'
+dateModified: '2016-01-28T21:35:40.738Z'
 title: "Pulkau...reich an Geschichte und\_voll von kraftvollem Leben!"
 author: []
 sourcePath: _posts/2016-01-05-pulkaureich-an-geschichte-und-voll-von-kraftvollem-leben.md
