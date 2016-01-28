@@ -7,7 +7,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Weingüter entstehen nicht von heute auf morgen, sie werden von Generationen zu dem gemacht, was sie heute sind! \_ Seit 1858 wird in Groß-Reipersdorf b"
-datePublished: '2016-01-28T21:35:14.414Z'
+datePublished: '2016-01-28T21:35:14.848Z'
 dateModified: '2016-01-28T21:35:06.223Z'
 author: []
 title: Weingut
