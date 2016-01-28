@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-06T18:29:22.964Z'
-dateModified: '2016-01-06T18:29:16.171Z'
+datePublished: '2016-01-28T21:36:22.096Z'
+dateModified: '2016-01-28T21:36:18.658Z'
 title: OÖN Weinshow im Forsthof
 author: []
 sourcePath: _posts/2016-01-05-oon-weinshow-im-forsthof.md
@@ -120,9 +120,7 @@ _PLV ... Wein mit sehr gutem Preis-Leistungs-Verhältnis_
 
 Ein Schwung Renetten und Hülsenfrüchte, Zesten, etwas Schwarzbrotwürze, süffige frucht von gelben Äpfeln, Kräuterlimonade, animierend knackig bei präsenter Säurestütze.  
 
-### FUN  |[
-
-Riesling Ried Wehrleiten 2013][7]
+### FUN  |[Riesling Ried Wehrleiten 2013][7]
 
 _FUN ... Wein, der besonderes Trinkvergnügen bereitet_
 
@@ -151,7 +149,6 @@ Tiefe Fruchtnoten von eingelegten Weichseln, Zwetschken und Waldhimbeeren, Maras
 ### 90 PUNKTE | [St. Laurent _Satzen 2011_][0]
 
 Dunkles Rubingranat, opaker Kern, zarte Randaufhellung. Reife Zwetschken, mit dunkler Beerenfrucht unterlegt, zarte Kräuterwürze. Satftig, elegant, süße schwarze Beerenfrucht, etwas Nougat, feine Tannine, bleibt gut haften, verfügt über Entw
-null
 
 [0]: http://www.weingut-jordan.at/php_deu/sortiment.php?rotwein=6
 [1]: http://www.weingut-jordan.at/php_deu/sortiment.php?rotwein=4
