@@ -1,19 +1,4 @@
-name: Weingut Test
-favicon: null
-layout_spectrum: 0.87598
 typography_spectrum: 0.79771
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#dcd6cb'
@@ -25,4 +10,23 @@ color:
   lightness: 0.5625
   saturation: 0.625
   rhythmicContrast: 0.25
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.87598
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Weingut Test
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Philosophie
+    id: 2a32aa06-8007-46cd-8dbe-a68d7a0e1da8
+    type: content
+favicon: null
 purpose: []
